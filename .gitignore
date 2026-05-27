@@ -1,2 +1,2 @@
 # Ignore a specific file
-echo "john.txt" >> .gitignore
+ echo "john.txt" >> .gitignore
